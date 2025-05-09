@@ -88,9 +88,8 @@ export default function SaveNestPreview() {
             {/* Slide 7 – Trust & Security */}
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#181818]">
         <h2 className="text-6xl md:text-7xl font-bold mb-8">Trust & Security</h2>
-        <p className="text-2xl text-gray-300 mb-6 max-w-4xl">.
         <ul className="text-2xl text-gray-400 space-y-6 max-w-4xl">
-          <li>🛡️ Jatayu is an advanced chatbot that helps users with queries</li>
+          <li>🛡️ Jatayu is an advanced chatbot that helps users</li>
           <li>📊 Trust Score Dashboard ensures faster redemptions</li>
           <li>🔐 Device, IP & behavior-based protection layers</li>
         </ul>
