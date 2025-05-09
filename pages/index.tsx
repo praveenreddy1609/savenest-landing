@@ -105,12 +105,11 @@ export default function SaveNestPreview() {
         <h2 className="text-5xl md:text-6xl font-bold mb-8">Multi-Platform Integration</h2>
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
           <li>🛒 Compare prices across Amazon, Flipkart, Croma, Ajio & more</li>
-          <li>🧩 Works via Chrome extension, mobile app & Telegram/WhatsApp bots</li>
+          <li>🧩 SaveNest Website, Chrome Extension, Mobile Apps, Telegram & WhatsApp</li>
           <li>🚀 All logic verified by AI before showing any link</li>
         </ul>
         <div className="text-lg text-gray-500 mt-8">
           <p>Example: Flipkart + Amazon prices auto-compared for mobile (best offer shown instantly)</p>
-          <p>Works via: SaveNest Website, Chrome Extension, Mobile Apps, Telegram & WhatsApp  Se</p>
           <p>We support 50+ top brands – Save more everywhere!</p>
         </div>
       </section>
