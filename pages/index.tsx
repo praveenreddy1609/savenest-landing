@@ -15,13 +15,13 @@ export default function SaveNestPreview() {
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4, duration: 0.8 }}>
           <p className="text-2xl md:text-3xl text-gray-300 mb-6 max-w-3xl">India’s Smartest AI-Powered Savings Assistant</p>
         </motion.div>
-        <p className="text-lg text-neutral-500">Crafted in India with ❤️</p>
+        <p className="text-xl text-neutral-500">Crafted in India with ❤️</p>
       </section>
 
       {/* Slide 2 – Smart Search */}
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#121212]">
         <h2 className="text-5xl md:text-6xl font-bold mb-8">Smart Search – Find the Best Deals</h2>
-        <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
+        <ul className="text-2xl text-gray-400 space-y-4 max-w-4xl">
           <li>🔍 Enter text, paste links, or upload product images</li>
           <li>🤖 AI instantly compares platforms & selects best rewards</li>
           <li>💸 See cashback, EMI, and SaveNest Coins in real time</li>
@@ -85,14 +85,16 @@ export default function SaveNestPreview() {
         </div>
       </section>
 
-      {/* Slide 7 – Trust & Security</h2>
-        <p className="text-xl text-gray-300 mb-4">Jatayu is SaveNest’s advanced AI chatbot that helps users with queries, guides them through rewards and offers, and supports them while silently preventing fraud in the background.</p>
-        <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
+            {/* Slide 7 – Trust & Security */}
+      <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#181818]">
+        <h2 className="text-6xl md:text-7xl font-bold mb-8">Trust & Security</h2>
+        <p className="text-2xl text-gray-300 mb-6 max-w-4xl">Jatayu is SaveNest’s advanced AI chatbot that helps users with queries, guides them through rewards and offers, and supports them while silently preventing fraud in the background.</p>
+        <ul className="text-2xl text-gray-400 space-y-6 max-w-4xl">
           <li>🛡️ Jatayu is an advanced chatbot that helps users</li>
           <li>📊 Trust Score Dashboard ensures faster redemptions</li>
           <li>🔐 Device, IP & behavior-based protection layers</li>
         </ul>
-        <div className="text-lg text-gray-500 mt-8">
+        <div className="text-xl text-gray-500 mt-10">
           <p>Example: Jatayu helps users check EMI reward eligibility and explains offers clearly</p>
         </div>
       </section>
