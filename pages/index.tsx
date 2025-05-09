@@ -45,25 +45,25 @@ export default function SaveNestPreview() {
           <p>Example 2: 5 items with ICICI card = ₹1200 stacked savings + 134 Coins</p>
         </div>
       </section>
-
-      {/* Slide 4 – Family Nest */}
-      <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#161616]">
-        <h2 className="text-5xl md:text-6xl font-bold mb-8">Family Nest – Share & Pool Rewards</h2>
+      
+             {/* Slide 4 – SaveNest ID & Referral System */}
+      <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#111111]">
+        <h2 className="text-5xl md:text-6xl font-bold mb-8">SaveNest ID & Referral System</h2>
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
-          <li>👨‍👩‍👧‍👦 Link up to 5 family members securely</li>
-          <li>🔒 KYC & device-based linking prevents abuse</li>
-          <li>💰 Pool all SaveNest Coins to redeem faster</li>
+          <li>🆔 Every user receives a personal SaveNest ID (e.g., SN-PV-849203)</li>
+          <li>🔗 Referral rewards apply on your friend’s first 3 valid orders</li>
+          <li>🪙 Earn SaveNest Coins automatically when your friends purchase</li>
         </ul>
         <div className="text-lg text-gray-500 mt-8">
-          <p>Example: Family of 4 pools coins to redeem ₹1000 card in days</p>
+          <p>Example: You refer your friend. They buy a mobile worth ₹10,000. You and your friend both earn Coins in your accounts.</p>
         </div>
       </section>
 
-      {/* Slide 5 – Category Intelligence */}
+     {/* Slide 5 – Category Intelligence */}
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#121212]">
         <h2 className="text-5xl md:text-6xl font-bold mb-8">Category Intelligence</h2>
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
-          <li>🧠 Specialized AIs for tech, medicine, fashion, grocery</li>
+          <li>🧠 Specialized AIs for electronics, medicine, fashion, groceries, and more</li>
           <li>📦 Validates variant, spec, and expiry data before listing</li>
           <li>🎯 Avoids fake brands and risky product links</li>
         </ul>
@@ -85,18 +85,19 @@ export default function SaveNestPreview() {
         </div>
       </section>
 
-      {/* Slide 7 – Trust & Security */}
-      <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#181818]">
-        <h2 className="text-5xl md:text-6xl font-bold mb-8">Trust & Security</h2>
+      {/* Slide 7 – Trust & Security</h2>
+        <p className="text-xl text-gray-300 mb-4">Jatayu is SaveNest’s advanced AI chatbot that helps users with queries, guides them through rewards and offers, and supports them while silently preventing fraud in the background.</p>
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
-          <li>🛡️ Jatayu AI protects against fraud, fake links & abuse</li>
+          <li>🛡️ Jatayu is an advanced chatbot that helps users</li>
           <li>📊 Trust Score Dashboard ensures faster redemptions</li>
           <li>🔐 Device, IP & behavior-based protection layers</li>
         </ul>
         <div className="text-lg text-gray-500 mt-8">
-          <p>Example: Fraudulent devices blocked from earning rewards</p>
+          <p>Example: Jatayu helps users check EMI reward eligibility and explains offers clearly</p>
         </div>
       </section>
+
+            
 
       {/* Slide 8 – Multi-Platform Integration */}
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#101010]">
@@ -125,6 +126,19 @@ export default function SaveNestPreview() {
         </div>
       </section>
 
+      {/* Slide 10 – Family Nest */}
+      <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#161616]">
+        <h2 className="text-5xl md:text-6xl font-bold mb-8">Family Nest – Share & Pool Rewards</h2>
+        <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
+          <li>👨‍👩‍👧‍👦 Link up to 5 family members securely</li>
+          <li>🔒 KYC & device-based linking prevents abuse</li>
+          <li>💰 Pool all SaveNest Coins to redeem faster</li>
+        </ul>
+        <div className="text-lg text-gray-500 mt-8">
+          <p>Example: Family of 4 pools coins to redeem ₹1000 card in days</p>
+        </div>
+      </section>
+        
       {/* Footer Slide – Contact & Disclaimer */}
       <section className="bg-[#0a0a0a] text-center py-10 text-lg text-gray-400">
         <p>📧 Contact admin: <a href="mailto:admin@savenest.in" className="text-blue-400 underline">admin@savenest.in</a></p>
@@ -135,3 +149,4 @@ export default function SaveNestPreview() {
     </main>
   )
 }
+
