@@ -105,7 +105,7 @@ export default function SaveNestPreview() {
         <h2 className="text-5xl md:text-6xl font-bold mb-8">Multi-Platform Integration</h2>
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
           <li>🛒 Compare prices across Amazon, Flipkart, Croma, Ajio & more</li>
-          <li>🧩 SaveNest Website, Chrome Extension, Mobile Apps, Telegram & WhatsApp</li>
+          <li>🧩 Works via SaveNest Website, Chrome Extension, Mobile Apps, Telegram & WhatsApp</li>
           <li>🚀 All logic verified by AI before showing any link</li>
         </ul>
         <div className="text-lg text-gray-500 mt-8">
