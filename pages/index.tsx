@@ -13,9 +13,9 @@ export default function SaveNestPreview() {
           <h1 className="text-6xl md:text-8xl font-bold mb-6 tracking-tight text-white">Welcome to SaveNest</h1>
         </motion.div>
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4, duration: 0.8 }}>
-          <p className="text-4xl md:text-3xl text-gray-300 mb-6 max-w-3xl">India’s Smartest AI-Powered Savings Assistant</p>
+          <p className="text-6xl md:text-4xl text-gray-300 mb-6 max-w-3xl">India’s Smartest AI-Powered Savings Assistant</p>
         </motion.div>
-        <p className="text-2xl text-neutral-500">Crafted in India with ❤️</p>
+        <p className="text-3xl text-neutral-500">Crafted in India with ❤️</p>
       </section>
 
       {/* Slide 2 – Smart Search */}
@@ -26,7 +26,7 @@ export default function SaveNestPreview() {
           <li>🤖 AI instantly compares platforms & selects best rewards</li>
           <li>💸 See cashback, EMI, and SaveNest Coins in real time</li>
         </ul>
-        <div className="text-xl text-gray-500 mt-8">
+        <div className="text-2xl text-gray-500 mt-8">
           <p>Example 1: Samsung S25 Ultra – ₹1,29,999 on Amazon, Amazon Pay ICICI card offer on full payment ₹6,499 cashback post delivery, no cost EMI up to 9 months, 101 Coins</p>
           <p>Example 2: Croma 43" Smart TV – ₹21,999, full payment ₹2000 off via HDFC, no cost EMI up to 3 months, 55 Coins</p>
         </div>
@@ -89,7 +89,7 @@ export default function SaveNestPreview() {
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#181818]">
         <h2 className="text-6xl md:text-7xl font-bold mb-8">Trust & Security</h2>
         <ul className="text-2xl text-gray-400 space-y-6 max-w-4xl">
-          <li>🛡️ Jatayu is an advanced chatbot that helps users with queries</li>
+          <li>🛡️ Jatayu is an advanced chatbot that helps users</li>
           <li>📊 Trust Score Dashboard ensures faster redemptions</li>
           <li>🔐 Device, IP & behavior-based protection layers</li>
         </ul>
