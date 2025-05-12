@@ -97,7 +97,7 @@ export default function SaveNestPreview() {
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
           <li>🛍️ Compare prices across Amazon, Flipkart, Croma, Ajio, and 50+ brands</li>
           <li>📲 SaveNest Website, Mobile App, Chrome Extension, Telegram, WhatsApp supported</li>
-          <li>🚀 Links verified by AI and humans before shown to users for maximum trust</li>
+          <li>🚀 Links verified by AI and Humans before shown to users for maximum trust</li>
         </ul>
       </section>
 
