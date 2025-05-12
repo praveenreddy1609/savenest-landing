@@ -20,7 +20,7 @@ export default function SaveNestPreview() {
     </p>
   </motion.div>
   <p className="text-2xl text-neutral-500">
-    Crafted in INDIA with ❤️ Trust
+    Crafted in INDIA with ❤️ 
   </p>
 </section>
 
