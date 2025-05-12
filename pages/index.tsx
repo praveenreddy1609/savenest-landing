@@ -7,16 +7,23 @@ export default function SaveNestPreview() {
   return (
     <main className="bg-[#0e0e0e] text-white font-sans">
 
-      {/* Slide 1 – Hero Welcome */}
-      <section className="min-h-screen flex flex-col items-center justify-center text-center px-6">
-        <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1 }}>
-          <h1 className="text-6xl md:text-8xl font-bold mb-6 tracking-tight text-white">Welcome to SaveNest</h1>
-        </motion.div>
-        <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4, duration: 0.8 }}>
-          <p className="text-4xl md:text-4xl text-gray-300 mb-6 max-w-3xl">India’s Smartest AI-Powered Savings Revolution</p>
-        </motion.div>
-        <p className="text-2xl text-neutral-500">Crafted with 🇮🇳 Passion and 💙 Trust</p>
-      </section>
+   {/* Slide 1 – Hero Welcome */}
+<section className="min-h-screen flex flex-col items-center justify-center text-center px-6">
+  <motion.div initial={{ opacity: 0, y: -20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 1 }}>
+    <h1 className="text-6xl md:text-8xl font-bold mb-6 tracking-tight text-white">
+      Welcome to SaveNest
+    </h1>
+  </motion.div>
+  <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 0.4, duration: 0.8 }}>
+    <p className="text-4xl md:text-4xl text-gray-300 mb-6 max-w-3xl">
+      India’s Smartest AI-Powered Savings Revolution
+    </p>
+  </motion.div>
+  <p className="text-2xl text-neutral-500">
+    Crafted in INDIA with ❤️ Trust
+  </p>
+</section>
+
 
       {/* Slide 2 – Smart Search */}
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#121212]">
