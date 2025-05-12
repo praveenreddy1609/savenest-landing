@@ -65,7 +65,7 @@ export default function SaveNestPreview() {
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#121212]">
         <h2 className="text-5xl font-bold mb-8">Category-Specific AI Intelligence</h2>
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
-          <li>🧠 Specialized AI for electronics, groceries, fashion, medicines</li>
+          <li>🧠 Specialized AI for electronics, groceries, fashion, medicines etc</li>
           <li>📦 Verifies variant specs, expiry dates, authenticity before showing</li>
           <li>🚫 Blocks fake products and risky listings automatically</li>
         </ul>
@@ -85,7 +85,7 @@ export default function SaveNestPreview() {
       <section className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-[#181818]">
         <h2 className="text-5xl font-bold mb-8">Trust & Security – Multi-Layer Protection</h2>
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
-          <li>🛡️ Ashwa monitors every transaction, reward, and deal health</li>
+          <li>🛡️ Dedicated AIs monitors every transaction, reward, and deal health</li>
           <li>🤖 Jatayu offers real-time user help, dragged product insights</li>
           <li>🔒 Device, IP, and behavior-based protection shields SaveNest accounts</li>
         </ul>
@@ -97,7 +97,7 @@ export default function SaveNestPreview() {
         <ul className="text-xl text-gray-400 space-y-4 max-w-4xl">
           <li>🛍️ Compare prices across Amazon, Flipkart, Croma, Ajio, and 50+ brands</li>
           <li>📲 SaveNest Website, Mobile App, Chrome Extension, Telegram, WhatsApp supported</li>
-          <li>🚀 Links verified by AI before shown to users for maximum trust</li>
+          <li>🚀 Links verified by AI and humans before shown to users for maximum trust</li>
         </ul>
       </section>
 
