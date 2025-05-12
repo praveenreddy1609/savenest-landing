@@ -34,7 +34,7 @@ export default function SaveNestPreview() {
           <li>💸 See real cashback, EMI options, and SaveNest Points in real time</li>
         </ul>
         <div className="text-lg text-gray-500 mt-8">
-          <p>Example: Samsung S25 Ultra – ₹1,29,999 on Amazon | ₹6499 cashback via ICICI card | No-cost EMI up to 9 months | Earn upto 115 SaveNest Points</p>
+          <p>Example: Samsung S25 Ultra – ₹1,29,999 on Amazon | ₹6499 cashback via Amazon pay ICICI card | No-cost EMI up to 9 months | Earn upto 115 SaveNest Points (redeemable as Gift Cards)</p>
         </div>
       </section>
 
